@@ -121,41 +121,6 @@ ${readMore}
 ┃💫➺ _Bot_ 
 *╰━━━━━━━━━━━━⬣*
 
-*╭━〔 MAPAS DE FREE FIRE Y LISTAS PARA VS 〕⬣*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ ඬ⃟ 💟 .4vs4 Lista de 4 vs 4
-┣ ඬ⃟ 💟 .6vs6 Lista de 6 vs 6
-┣ ඬ⃟ 💟 .scrim Lista de scrim
-┣ ඬ⃟ 💟 .internamasc Lista de versus interno masculino
-┣ ඬ⃟ 💟 .internafem Lista de versus interno femenino
-┣ ඬ⃟ 💟 .internamixta Lista de versus interno mixto
-┣ ඬ⃟ 💟 .donarsala Escoge un donador de sala al azar en el grupo
-┣ ඬ⃟ 💟 .vs8 Lista de 8 vs 8 
-┣ ඬ⃟ 💟 .vs12 Lista de 12 vs 12
-┣ ඬ⃟ 💟 .vs16 Lista de 16 vs 16
-┣ ඬ⃟ 💟 .vs20 Lista de 20 vs 20
-┣ ඬ⃟ 💟 .vs24 Lista de 24 vs 24
-┣ ඬ⃟ 💟 .fem18 Lista de vivido para las 18🇦🇷
-┣ ඬ⃟ 💟 .fem19 Lista de vivido para las 19🇦🇷
-┣ ඬ⃟ 💟 .fem20 Lista de vivido para las 20🇦🇷
-┣ ඬ⃟ 💟 .fem21 Lista de vivido para las 21🇦🇷
-┣ ඬ⃟ 💟 .fem22 Lista de vivido para las 22🇦🇷
-┣ ඬ⃟ 💟 .fem23 Lista de vivido para las 23🇦🇷
-┣ ඬ⃟ 💟 .fem00 Lista de vivido para las 00🇦🇷
-┣ ඬ⃟ 💟 .masc18 Lista de vivido para las 18🇦🇷
-┣ ඬ⃟ 💟 .masc19 Lista de vivido para las 19🇦🇷
-┣ ඬ⃟ 💟 .masc20 Lista de vivido para las 20🇦🇷
-┣ ඬ⃟ 💟 .masc21 Lista de vivido para las 21🇦🇷
-┣ ඬ⃟ 💟 .masc22 Lista de vivido para las 22🇦🇷
-┣ ඬ⃟ 💟 .masc23 Lista de vivido para las 23🇦🇷
-┣ ඬ⃟ 💟 .masc00 Lista de vivido para las 00🇦🇷
-┣ ඬ⃟ 💟 .bermuda Mapa de Bermuda de Free Fire
-┣ ඬ⃟ 💟 .purgatorio Mapa de Purgatorio de Free Fire
-┣ ඬ⃟ 💟 .kalahari Mapa de Kalahari de Free Fire
-┣ ඬ⃟ 💟 .alpes Mapa de Alpes de Free Fire
-┣ ඬ⃟ 💟 .nexterra Mapa de Nexterra de Free Fire
-*╰━━━━━━━━━━━━⬣*
-
 *╭━〔 REPORTAR COMANDO 〕━⬣*
 ┃ *Reporta con este comando de haber*
 ┃ *Fallas para poder Solucionar!!*
