@@ -11,13 +11,13 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["5215625775955", 'Monovan', true], //Richetti
-["5215625775955"], 
-["5215625775955"], 
-["5215625775955"], 
-["5215625775955"],
-["5217298724948"],
-["5215625768269"]]
+["5213315506693", 'Perla', true], //Richetti
+["5213315506693"], 
+["5213315506693"], 
+["5213315506693"], 
+["5213315506693"],
+["5213315506693"],
+["5213315506693"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -26,8 +26,8 @@ global.owner = [
 global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
-global.mods = [5215625775955]
-global.prems = ["5215625775955"]
+global.mods = [5213315506693]
+global.prems = ["5213315506693"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
@@ -103,19 +103,19 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["5215625775955", 'MonkeyBot', 1], 
-["5215625775955", 'MonkeyBot', 1],  
-["5215625775955", 'MonkeyBot', 1],
-["5217298724948", 'MonkeyBot', 1],
-["5215625768269", 'MonkeyBot', 1]]
+["5213315506693", 'Perla', 1], 
+["5213315506693", 'Perla', 1],  
+["5213315506693", 'Perla', 1],
+["5213315506693", 'Perla', 1],
+["5213315506693", 'Perla', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = 'MonkeyBot el mejor bot de whatsapp' //agrega una descripción corta
 global.desc2 = 'MonkeyBot el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = 'Perú' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "MonkeyBot"
-global.author = "MonkeyBot"
+global.packname = "Perla"
+global.author = "Perla"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -177,13 +177,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "MonkeyBot"
-global.igfg = "MonkeyBot"
+global.wm = "Perla"
+global.igfg = "Perla"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "525625768269"
+global.nomorown = "5213315506693"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
